@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: spring-learn
+  profiles:
+    active: dev
+
+server:
+  port: 8099
+
+tj:
+  properties:
+    name: tangjie
+    age: 19
